@@ -1,0 +1,57 @@
+<options>
+  <configurable id="editor.breadcrumbs" configurable_name="Breadcrumbs">
+    <option name="haml" hit="Haml" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Haml" configurable_name="Haml">
+    <option name="haml" hit="Haml" />
+    <option name="class" hit="Class" />
+    <option name="comment" hit="Comment" />
+    <option name="evaluation" hit="Evaluation" />
+    <option name="filter" hit="Filter" />
+    <option name="content" hit="Filter content" />
+    <option name="filter" hit="Filter content" />
+    <option name="id" hit="ID" />
+    <option name="code" hit="Injected code" />
+    <option name="injected" hit="Injected code" />
+    <option name="continuation" hit="Line continuation" />
+    <option name="line" hit="Line continuation" />
+    <option name="parenthesis" hit="Parenthesis" />
+    <option name="plain" hit="Plain text" />
+    <option name="text" hit="Plain text" />
+    <option name="string" hit="String" />
+    <option name="tag" hit="Tag" />
+    <option name="attribute" hit="Tag attribute" />
+    <option name="tag" hit="Tag attribute" />
+    <option name="name" hit="Tag name" />
+    <option name="tag" hit="Tag name" />
+    <option name="removal" hit="Whitespace removal" />
+    <option name="whitespace" hit="Whitespace removal" />
+    <option name="xhtml" hit="XHTML" />
+  </configurable>
+  <configurable id="preferences.sourceCode.Haml" configurable_name="Haml">
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="disable" hit="Disable" />
+    <option name="haml" hit="Haml" />
+    <option name="indent" path="Tabs and Indents" hit="Indent:" />
+    <option name="empty" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="indents" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="keep" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="lines" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="on" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="loading" hit="Loading..." />
+    <option name="scheme" hit="Scheme:" />
+    <option name="from" hit="Set from..." />
+    <option name="set" hit="Set from..." />
+    <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="size" path="Tabs and Indents" hit="Tab size:" />
+    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="character" path="Tabs and Indents" hit="Use tab character" />
+    <option name="tab" path="Tabs and Indents" hit="Use tab character" />
+    <option name="use" path="Tabs and Indents" hit="Use tab character" />
+  </configurable>
+</options>

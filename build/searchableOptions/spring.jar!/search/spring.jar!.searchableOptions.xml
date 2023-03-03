@@ -1,0 +1,11 @@
+<options>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="beans" hit="spring-beans.1_0" />
+    <option name="spring" hit="spring-beans.1_0" />
+    <option name="beans" hit="spring-beans.2_0" />
+    <option name="spring" hit="spring-beans.2_0" />
+    <option name="beans" hit="spring-beans.schema" />
+    <option name="schema" hit="spring-beans.schema" />
+    <option name="spring" hit="spring-beans.schema" />
+  </configurable>
+</options>

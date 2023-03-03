@@ -1,0 +1,135 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="locationTest" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/locationPermission.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JavaScript">
+      <summary usageCount="38" lastUsed="1676857093969" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="1" lastUsed="1675538005890" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/jsdoc.conf" />
+      <option value="$PROJECT_DIR$/locationPermission.js" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JavaScript">
+      <summary usageCount="38" lastUsage="1676857093970" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1675538005890" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="locationTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="locationTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7365000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.09535714" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33019912" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" visible="true" weight="0.23396018" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="273" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1675538040134">
+      <screen x="0" y="38" width="1512" height="944" />
+    </state>
+    <state x="447" y="273" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.38.1512.944@0.38.1512.944" timestamp="1675538040134" />
+    <state x="478" y="324" key="#com.intellij.tools.ToolEditorDialog" timestamp="1675538168028">
+      <screen x="0" y="38" width="1512" height="944" />
+    </state>
+    <state x="478" y="324" key="#com.intellij.tools.ToolEditorDialog/0.38.1512.944@0.38.1512.944" timestamp="1675538168028" />
+    <state x="297" y="225" key="IDE.errors.dialog" timestamp="1676594442898">
+      <screen x="0" y="38" width="1512" height="944" />
+    </state>
+    <state x="297" y="225" key="IDE.errors.dialog/0.38.1512.944/1512.25.1920.1055@0.38.1512.944" timestamp="1675437136045" />
+    <state x="297" y="225" key="IDE.errors.dialog/0.38.1512.944@0.38.1512.944" timestamp="1676594442898" />
+    <state x="218" y="134" key="SettingsEditor" timestamp="1675538612887">
+      <screen x="0" y="38" width="1512" height="944" />
+    </state>
+    <state x="218" y="134" key="SettingsEditor/0.38.1512.944@0.38.1512.944" timestamp="1675538612887" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jsdoc.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locationPermission.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="choose" path="ActionManager" hit="Choose Plugins to Update..." />
+    <option name="plugins" path="ActionManager" hit="Choose Plugins to Update..." />
+    <option name="to" path="ActionManager" hit="Choose Plugins to Update..." />
+    <option name="update" path="ActionManager" hit="Choose Plugins to Update..." />
+    <option name="choose" path="ActionManager" hit="Choose Settings to Sync..." />
+    <option name="settings" path="ActionManager" hit="Choose Settings to Sync..." />
+    <option name="sync" path="ActionManager" hit="Choose Settings to Sync..." />
+    <option name="to" path="ActionManager" hit="Choose Settings to Sync..." />
+    <option name="disable" path="ActionManager" hit="Disable Sync..." />
+    <option name="sync" path="ActionManager" hit="Disable Sync..." />
+    <option name="ide" path="ActionManager" hit="IDE Settings Sync" />
+    <option name="settings" path="ActionManager" hit="IDE Settings Sync" />
+    <option name="sync" path="ActionManager" hit="IDE Settings Sync" />
+    <option name="plugins" path="ActionManager" hit="Sync Plugins Silently" />
+    <option name="silently" path="ActionManager" hit="Sync Plugins Silently" />
+    <option name="sync" path="ActionManager" hit="Sync Plugins Silently" />
+    <option name="account" path="ActionManager" hit="Sync Settings to JetBrains Account..." />
+    <option name="jetbrains" path="ActionManager" hit="Sync Settings to JetBrains Account..." />
+    <option name="settings" path="ActionManager" hit="Sync Settings to JetBrains Account..." />
+    <option name="sync" path="ActionManager" hit="Sync Settings to JetBrains Account..." />
+    <option name="to" path="ActionManager" hit="Sync Settings to JetBrains Account..." />
+    <option name="new" path="ActionManager" hit="Sync new settings..." />
+    <option name="settings" path="ActionManager" hit="Sync new settings..." />
+    <option name="sync" path="ActionManager" hit="Sync new settings..." />
+  </configurable>
+</options>

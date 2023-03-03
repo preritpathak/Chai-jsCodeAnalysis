@@ -1,0 +1,12 @@
+<conversion>
+  <applied-converters>
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="DockerRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea/modules.xml" t="1668815839" />
+    <f p="./.idea/workspace.xml" t="1676649048" />
+    <f p="./.idea/locationTest.iml" t="1668815839" />
+    <f p="./.idea/jsLibraryMappings.xml" t="1674945312" />
+  </project-files>
+</conversion>

@@ -1,0 +1,813 @@
+{
+  "appInfo" : {
+    "build" : "222.4345.14",
+    "buildDate" : "2022-10-05T05:01:15.633Z[UTC]",
+    "productCode" : "WS",
+    "generated" : "2022-11-18T23:41:42.151024Z",
+    "os" : "macOS 12.3.1",
+    "runtime" : "JetBrains s.r.o. 17.0.4.1 17.0.4.1+7-b469.62"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "react-native-travel-app",
+    "times" : {
+      "indexingReason" : "Reindex requested by project root model changes",
+      "scanningType" : "FULL",
+      "totalUpdatingTime" : 8784253084,
+      "indexingTime" : 8000473000,
+      "contentLoadingVisibleTime" : 200323428,
+      "creatingIteratorsTime" : 1262000,
+      "scanFilesTime" : 776471000,
+      "pushPropertiesTime" : 4000,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 1247143065,
+      "updatingStart" : "2022-11-18T23:41:33.366032Z",
+      "updatingEnd" : "2022-11-18T23:41:42.150255Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 16,
+      "numberOfScannedFiles" : 4309,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 3022,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 3022
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JavaScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 17813508001,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 256937406,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 910,
+      "totalFilesSize" : 9459348,
+      "indexingSpeed" : {
+        "totalBytes" : 9459348,
+        "totalTime" : 17813508001
+      },
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@e1f90aba",
+        "numberOfFiles" : 910,
+        "totalFilesSize" : 9459348,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 17813508001,
+          "total" : 17813508001
+        }
+      } ]
+    }, {
+      "fileType" : "TypeScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 8919540673,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 366678252,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 1336,
+      "totalFilesSize" : 5019455,
+      "indexingSpeed" : {
+        "totalBytes" : 5019455,
+        "totalTime" : 8919540673
+      },
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@e1f90aba",
+        "numberOfFiles" : 1336,
+        "totalFilesSize" : 5019455,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 8919540673,
+          "total" : 8919540673
+        }
+      } ]
+    }, {
+      "fileType" : "TypeScript JSX",
+      "partOfTotalProcessingTime" : {
+        "part" : 1681498164,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 62011335,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 243,
+      "totalFilesSize" : 847534,
+      "indexingSpeed" : {
+        "totalBytes" : 847534,
+        "totalTime" : 1681498164
+      },
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@e1f90aba",
+        "numberOfFiles" : 243,
+        "totalFilesSize" : 847534,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1681498164,
+          "total" : 1681498164
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 970514376,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 34664044,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 127,
+      "totalFilesSize" : 2226715,
+      "indexingSpeed" : {
+        "totalBytes" : 2226715,
+        "totalTime" : 970514376
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-travel-app' (react-native-travel-app)",
+        "numberOfFiles" : 127,
+        "totalFilesSize" : 2226715,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 970514376,
+          "total" : 970514376
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 954454292,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 51543953,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 320,
+      "totalFilesSize" : 2458757,
+      "indexingSpeed" : {
+        "totalBytes" : 2458757,
+        "totalTime" : 954454292
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-travel-app' (react-native-travel-app)",
+        "numberOfFiles" : 129,
+        "totalFilesSize" : 2169620,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 661085047,
+          "total" : 954454292
+        }
+      }, {
+        "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@e1f90aba",
+        "numberOfFiles" : 191,
+        "totalFilesSize" : 289137,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 293369245,
+          "total" : 954454292
+        }
+      } ]
+    }, {
+      "fileType" : "Flow",
+      "partOfTotalProcessingTime" : {
+        "part" : 793948876,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 10382167,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 32,
+      "totalFilesSize" : 678212,
+      "indexingSpeed" : {
+        "totalBytes" : 678212,
+        "totalTime" : 793948876
+      },
+      "biggestContributors" : [ {
+        "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@e1f90aba",
+        "numberOfFiles" : 32,
+        "totalFilesSize" : 678212,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 793948876,
+          "total" : 793948876
+        }
+      } ]
+    }, {
+      "fileType" : "yarn.lock",
+      "partOfTotalProcessingTime" : {
+        "part" : 141122916,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 82833,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 290916,
+      "indexingSpeed" : {
+        "totalBytes" : 290916,
+        "totalTime" : 141122916
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-travel-app' (react-native-travel-app)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 290916,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 141122916,
+          "total" : 141122916
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 131640292,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 307542,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 2524,
+      "indexingSpeed" : {
+        "totalBytes" : 2524,
+        "totalTime" : 131640292
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-travel-app' (react-native-travel-app)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 2524,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 131640292,
+          "total" : 131640292
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 114795877,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3075086,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 35,
+      "totalFilesSize" : 61362,
+      "indexingSpeed" : {
+        "totalBytes" : 61362,
+        "totalTime" : 114795877
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-travel-app' (react-native-travel-app)",
+        "numberOfFiles" : 35,
+        "totalFilesSize" : 61362,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 114795877,
+          "total" : 114795877
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 112044998,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 4651583,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : 622384,
+      "indexingSpeed" : {
+        "totalBytes" : 622384,
+        "totalTime" : 112044998
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-travel-app' (react-native-travel-app)",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : 622384,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 112044998,
+          "total" : 112044998
+        }
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalProcessingTime" : {
+        "part" : 7434917,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 43250,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 8070,
+      "indexingSpeed" : {
+        "totalBytes" : 8070,
+        "totalTime" : 7434917
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-travel-app' (react-native-travel-app)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 8070,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7434917,
+          "total" : 7434917
+        }
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalProcessingTime" : {
+        "part" : 1112209,
+        "total" : 31641615591
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 283125,
+        "total" : 790660576
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 13,
+      "indexingSpeed" : {
+        "totalBytes" : 13,
+        "totalTime" : 1112209
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-travel-app' (react-native-travel-app)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 13,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1112209,
+          "total" : 1112209
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 17738846072,
+        "total" : 24467131161
+      },
+      "totalNumberOfFiles" : 2649,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 18233788,
+      "indexingSpeed" : {
+        "totalBytes" : 18233788,
+        "totalTime" : 17738846072
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 2926075169,
+        "total" : 24467131161
+      },
+      "totalNumberOfFiles" : 2648,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 18231264,
+      "indexingSpeed" : {
+        "totalBytes" : 18231264,
+        "totalTime" : 2926075169
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "js.string.literal.words.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 1849790648,
+        "total" : 24467131161
+      },
+      "totalNumberOfFiles" : 2521,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 16004549,
+      "indexingSpeed" : {
+        "totalBytes" : 16004549,
+        "totalTime" : 1849790648
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 922856322,
+        "total" : 24467131161
+      },
+      "totalNumberOfFiles" : 3022,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 21675290,
+      "indexingSpeed" : {
+        "totalBytes" : 21675290,
+        "totalTime" : 922856322
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 850831839,
+        "total" : 24467131161
+      },
+      "totalNumberOfFiles" : 3022,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 21675290,
+      "indexingSpeed" : {
+        "totalBytes" : 21675290,
+        "totalTime" : 850831839
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "js.custom.single.entry.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 82576312,
+        "total" : 24467131161
+      },
+      "totalNumberOfFiles" : 2521,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 16004549,
+      "indexingSpeed" : {
+        "totalBytes" : 16004549,
+        "totalTime" : 82576312
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 45760797,
+        "total" : 24467131161
+      },
+      "totalNumberOfFiles" : 320,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2458757,
+      "indexingSpeed" : {
+        "totalBytes" : 2458757,
+        "totalTime" : 45760797
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 21334706,
+        "total" : 24467131161
+      },
+      "totalNumberOfFiles" : 127,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2226715,
+      "indexingSpeed" : {
+        "totalBytes" : 2226715,
+        "totalTime" : 21334706
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 17524715,
+        "total" : 24467131161
+      },
+      "totalNumberOfFiles" : 320,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2458757,
+      "indexingSpeed" : {
+        "totalBytes" : 2458757,
+        "totalTime" : 17524715
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 11534581,
+        "total" : 24467131161
+      },
+      "totalNumberOfFiles" : 127,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2226715,
+      "indexingSpeed" : {
+        "totalBytes" : 2226715,
+        "totalTime" : 11534581
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@e1f90aba",
+      "numberOfScannedFiles" : 2712,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 2712,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 156551728,
+      "scanningTime" : 171974177,
+      "timeProcessingUpToDateFiles" : 8186039,
+      "timeUpdatingContentLessIndexes" : 26681575,
+      "timeIndexingWithoutContent" : 23850462,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'react-native-travel-app' (react-native-travel-app)",
+      "numberOfScannedFiles" : 1255,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 310,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 23702922,
+      "scanningTime" : 33339247,
+      "timeProcessingUpToDateFiles" : 1517468,
+      "timeUpdatingContentLessIndexes" : 199711,
+      "timeIndexingWithoutContent" : 3150291,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@6f7b431d' (non-project)",
+      "numberOfScannedFiles" : 218,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 2080783,
+      "scanningTime" : 2411207,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'TypeScript bundled libraries' (project)",
+      "numberOfScannedFiles" : 60,
+      "numberOfSkippedFiles" : 11,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 291869,
+      "scanningTime" : 311499,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'JS required libraries' (project)",
+      "numberOfScannedFiles" : 22,
+      "numberOfSkippedFiles" : 56,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 258458,
+      "scanningTime" : 273831,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 24,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 143917,
+      "scanningTime" : 263833,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'org.jetbrains.plugins.scss.index.SassScssIndexedRootProvider@1c666814' (non-project)",
+      "numberOfScannedFiles" : 8,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 106915,
+      "scanningTime" : 112708,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.HttpRequestCollectionProvider@52ab14b6' (non-project)",
+      "numberOfScannedFiles" : 2,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 30583,
+      "scanningTime" : 99251,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'JS required libraries' (non-project)",
+      "numberOfScannedFiles" : 7,
+      "numberOfSkippedFiles" : 5,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 67250,
+      "scanningTime" : 71124,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.run.HttpClientDynamicVariablesStubController@726ff266' (non-project)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 8333,
+      "scanningTime" : 8667,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@6f7b431d' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.HttpRequestCollectionProvider@52ab14b6' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.run.HttpClientDynamicVariablesStubController@726ff266' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'org.jetbrains.plugins.scss.index.SassScssIndexedRootProvider@1c666814' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'TypeScript bundled libraries' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@e1f90aba",
+      "totalNumberOfIndexedFiles" : 2712,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 7411220833,
+      "contentLoadingVisibleTime" : 179720685,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "react-test-renderer.development.js",
+        "processingTime" : 594739458,
+        "indexingTime" : 565050042,
+        "contentLoadingTime" : 2158750
+      }, {
+        "fileName" : "react-test-renderer.development.js",
+        "processingTime" : 607073875,
+        "indexingTime" : 576322333,
+        "contentLoadingTime" : 2499792
+      }, {
+        "fileName" : "ReactNativeRenderer-dev.js",
+        "processingTime" : 1174152708,
+        "indexingTime" : 1111692001,
+        "contentLoadingTime" : 10548167
+      }, {
+        "fileName" : "ReactNativeRenderer-prod.fb.js",
+        "processingTime" : 625618959,
+        "indexingTime" : 593956083,
+        "contentLoadingTime" : 1239250
+      }, {
+        "fileName" : "ReactNativeRenderer-profiling.js",
+        "processingTime" : 723785333,
+        "indexingTime" : 711077583,
+        "contentLoadingTime" : 1580875
+      }, {
+        "fileName" : "ReactNativeRenderer-dev.fb.js",
+        "processingTime" : 1265455166,
+        "indexingTime" : 1225590042,
+        "contentLoadingTime" : 3005625
+      }, {
+        "fileName" : "ReactFabric-dev.js",
+        "processingTime" : 1199996208,
+        "indexingTime" : 1092823586,
+        "contentLoadingTime" : 2517541
+      }, {
+        "fileName" : "ReactFabric-dev.fb.js",
+        "processingTime" : 1244014292,
+        "indexingTime" : 1151955500,
+        "contentLoadingTime" : 2730667
+      }, {
+        "fileName" : "ReactFabric-prod.fb.js",
+        "processingTime" : 646705166,
+        "indexingTime" : 612403917,
+        "contentLoadingTime" : 1153875
+      } ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 923322802
+    }, {
+      "providerName" : "Module 'react-native-travel-app' (react-native-travel-app)",
+      "totalNumberOfIndexedFiles" : 310,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 585874750,
+      "contentLoadingVisibleTime" : 20602743,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 323820263
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.27380515338480804
+  }
+}

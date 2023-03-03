@@ -1,0 +1,21 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="ktor" path="ActionManager" hit="Migrate Project to Latest Ktor Version..." />
+    <option name="latest" path="ActionManager" hit="Migrate Project to Latest Ktor Version..." />
+    <option name="migrate" path="ActionManager" hit="Migrate Project to Latest Ktor Version..." />
+    <option name="project" path="ActionManager" hit="Migrate Project to Latest Ktor Version..." />
+    <option name="to" path="ActionManager" hit="Migrate Project to Latest Ktor Version..." />
+    <option name="version" path="ActionManager" hit="Migrate Project to Latest Ktor Version..." />
+  </configurable>
+  <configurable id="ktor" configurable_name="Ktor">
+    <option name="automatically" hit="Create Run Configuration automatically" />
+    <option name="configuration" hit="Create Run Configuration automatically" />
+    <option name="create" hit="Create Run Configuration automatically" />
+    <option name="run" hit="Create Run Configuration automatically" />
+    <option name="ktor" hit="Ktor" />
+    <option name="from" hit="Suggest migrations from:" />
+    <option name="migrations" hit="Suggest migrations from:" />
+    <option name="suggest" hit="Suggest migrations from:" />
+  </configurable>
+</options>

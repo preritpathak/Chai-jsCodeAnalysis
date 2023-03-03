@@ -1,0 +1,100 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1675538559807" />
+    </e>
+    <e n="$Undo">
+      <i c="6" l="1676590902448" />
+    </e>
+    <e n="CloseContent">
+      <i c="1" l="1676594951246" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="115" l="1676857107421" />
+    </e>
+    <e n="EditorCopy">
+      <i c="3" l="1675537695381" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1675705675000" />
+    </e>
+    <e n="EditorDown">
+      <i c="2" l="1676052252809" />
+    </e>
+    <e n="EditorEnter">
+      <i c="8" l="1675705676668" />
+    </e>
+    <e n="EditorLeft">
+      <i c="44" l="1676083304807" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="1" l="1675557916782" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="5" l="1676080627521" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="1" l="1675533194025" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="5" l="1675557917383" />
+    </e>
+    <e n="EditorPaste">
+      <i c="5" l="1676180874243" />
+    </e>
+    <e n="EditorRight">
+      <i c="23" l="1676083311027" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="11" l="1675604636937" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1675705205207" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1675538002601" />
+    </e>
+    <e n="ProblemsView.QuickFixes">
+      <i c="6" l="1676590897180" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1675537110190" />
+    </e>
+    <e n="SaveAll">
+      <i c="26" l="1676857111958" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1675537954128" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1675643121454" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="4" l="1676594943150" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="4" l="1675538588644" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="3" l="1668816048681" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="2" l="1676594438578" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$InstallFromDiskAction">
+      <i c="1" l="1668728784800" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1668728783529" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="2" l="1675538208417" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1676594950363" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1675538126635" />
+    </e>
+  </component>
+</application>

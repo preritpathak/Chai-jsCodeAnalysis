@@ -1,0 +1,71 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="apply" path="ActionManager" hit="Apply Method Tracing Instrumentation" />
+    <option name="instrumentation" path="ActionManager" hit="Apply Method Tracing Instrumentation" />
+    <option name="method" path="ActionManager" hit="Apply Method Tracing Instrumentation" />
+    <option name="tracing" path="ActionManager" hit="Apply Method Tracing Instrumentation" />
+    <option name="capture" path="ActionManager" hit="Capture CPU usage data" />
+    <option name="cpu" path="ActionManager" hit="Capture CPU usage data" />
+    <option name="data" path="ActionManager" hit="Capture CPU usage data" />
+    <option name="usage" path="ActionManager" hit="Capture CPU usage data" />
+    <option name="capture" path="ActionManager" hit="Capture Memory Snapshot" />
+    <option name="memory" path="ActionManager" hit="Capture Memory Snapshot" />
+    <option name="snapshot" path="ActionManager" hit="Capture Memory Snapshot" />
+    <option name="capture" path="ActionManager" hit="Capture memory snapshot" />
+    <option name="memory" path="ActionManager" hit="Capture memory snapshot" />
+    <option name="snapshot" path="ActionManager" hit="Capture memory snapshot" />
+    <option name="configure" path="ActionManager" hit="Configure Method Tracing" />
+    <option name="method" path="ActionManager" hit="Configure Method Tracing" />
+    <option name="tracing" path="ActionManager" hit="Configure Method Tracing" />
+    <option name="after" path="ActionManager" hit="Enable YourKit CPU Profiler right after IDE is started" />
+    <option name="cpu" path="ActionManager" hit="Enable YourKit CPU Profiler right after IDE is started" />
+    <option name="enable" path="ActionManager" hit="Enable YourKit CPU Profiler right after IDE is started" />
+    <option name="ide" path="ActionManager" hit="Enable YourKit CPU Profiler right after IDE is started" />
+    <option name="is" path="ActionManager" hit="Enable YourKit CPU Profiler right after IDE is started" />
+    <option name="profiler" path="ActionManager" hit="Enable YourKit CPU Profiler right after IDE is started" />
+    <option name="right" path="ActionManager" hit="Enable YourKit CPU Profiler right after IDE is started" />
+    <option name="started" path="ActionManager" hit="Enable YourKit CPU Profiler right after IDE is started" />
+    <option name="yourkit" path="ActionManager" hit="Enable YourKit CPU Profiler right after IDE is started" />
+    <option name="execute" path="ActionManager" hit="Execute Performance Script…" />
+    <option name="performance" path="ActionManager" hit="Execute Performance Script…" />
+    <option name="script" path="ActionManager" hit="Execute Performance Script…" />
+    <option name="execute" path="ActionManager" hit="Execute performance test script" />
+    <option name="performance" path="ActionManager" hit="Execute performance test script" />
+    <option name="script" path="ActionManager" hit="Execute performance test script" />
+    <option name="test" path="ActionManager" hit="Execute performance test script" />
+    <option name="diagnostics" path="ActionManager" hit="Open Indexing Diagnostics" />
+    <option name="indexing" path="ActionManager" hit="Open Indexing Diagnostics" />
+    <option name="open" path="ActionManager" hit="Open Indexing Diagnostics" />
+    <option name="current" path="ActionManager" hit="Open Indexing Diagnostics for the current project" />
+    <option name="diagnostics" path="ActionManager" hit="Open Indexing Diagnostics for the current project" />
+    <option name="for" path="ActionManager" hit="Open Indexing Diagnostics for the current project" />
+    <option name="indexing" path="ActionManager" hit="Open Indexing Diagnostics for the current project" />
+    <option name="open" path="ActionManager" hit="Open Indexing Diagnostics for the current project" />
+    <option name="project" path="ActionManager" hit="Open Indexing Diagnostics for the current project" />
+    <option name="the" path="ActionManager" hit="Open Indexing Diagnostics for the current project" />
+    <option name="indexing" path="ActionManager" hit="Profile Indexing" />
+    <option name="profile" path="ActionManager" hit="Profile Indexing" />
+    <option name="indexing" path="ActionManager" hit="Profile Indexing on next restart" />
+    <option name="next" path="ActionManager" hit="Profile Indexing on next restart" />
+    <option name="on" path="ActionManager" hit="Profile Indexing on next restart" />
+    <option name="profile" path="ActionManager" hit="Profile Indexing on next restart" />
+    <option name="restart" path="ActionManager" hit="Profile Indexing on next restart" />
+    <option name="profile" path="ActionManager" hit="Profile Slow Startup" />
+    <option name="slow" path="ActionManager" hit="Profile Slow Startup" />
+    <option name="startup" path="ActionManager" hit="Profile Slow Startup" />
+    <option name="async" path="ActionManager" hit="Start Async Profiler" />
+    <option name="profiler" path="ActionManager" hit="Start Async Profiler" />
+    <option name="start" path="ActionManager" hit="Start Async Profiler" />
+    <option name="cpu" path="ActionManager" hit="Start CPU Usage Profiling" />
+    <option name="profiling" path="ActionManager" hit="Start CPU Usage Profiling" />
+    <option name="start" path="ActionManager" hit="Start CPU Usage Profiling" />
+    <option name="usage" path="ActionManager" hit="Start CPU Usage Profiling" />
+    <option name="profiler" path="ActionManager" hit="Start YourKit Profiler" />
+    <option name="start" path="ActionManager" hit="Start YourKit Profiler" />
+    <option name="yourkit" path="ActionManager" hit="Start YourKit Profiler" />
+    <option name="async" path="ActionManager" hit="Start async profiler" />
+    <option name="profiler" path="ActionManager" hit="Start async profiler" />
+    <option name="start" path="ActionManager" hit="Start async profiler" />
+  </configurable>
+</options>

@@ -1,0 +1,35 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/thesis/calculator">
+          <value>
+            <RecentProjectMetaInfo frameTitle="calculator – calculate.js" projectWorkspaceId="2HIhJNrJFBrUkj7w5ruIoUYRN6l">
+              <option name="activationTimestamp" value="1668736902115" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-222.4345.14" />
+              <option name="buildTimestamp" value="1664946091846" />
+              <frame x="1892" y="49" width="1400" height="904" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1668728762578" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/locationTest">
+          <value>
+            <RecentProjectMetaInfo frameTitle="locationTest – locationPermission.js" opened="true" projectWorkspaceId="2Hk554QC2mSFkhDh8UUPJGZuzyK">
+              <option name="activationTimestamp" value="1676857100673" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-222.4345.14" />
+              <option name="buildTimestamp" value="1664946069761" />
+              <frame x="112" y="67" width="1400" height="904" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1676857093395" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/WebstormProjects/locationTest" />
+  </component>
+</application>

@@ -1,0 +1,34 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="create" path="ActionManager" hit="Create new Servlet" />
+    <option name="new" path="ActionManager" hit="Create new Servlet" />
+    <option name="servlet" path="ActionManager" hit="Create new Servlet" />
+    <option name="creates" path="ActionManager" hit="Creates new JSP/JSPX page" />
+    <option name="jsp" path="ActionManager" hit="Creates new JSP/JSPX page" />
+    <option name="jspx" path="ActionManager" hit="Creates new JSP/JSPX page" />
+    <option name="new" path="ActionManager" hit="Creates new JSP/JSPX page" />
+    <option name="page" path="ActionManager" hit="Creates new JSP/JSPX page" />
+    <option name="filter" path="ActionManager" hit="Filter..." />
+    <option name="jsp" path="ActionManager" hit="JSP/JSPX" />
+    <option name="jspx" path="ActionManager" hit="JSP/JSPX" />
+    <option name="all" path="ActionManager" hit="Run validation on all files in the selected items" />
+    <option name="files" path="ActionManager" hit="Run validation on all files in the selected items" />
+    <option name="in" path="ActionManager" hit="Run validation on all files in the selected items" />
+    <option name="items" path="ActionManager" hit="Run validation on all files in the selected items" />
+    <option name="on" path="ActionManager" hit="Run validation on all files in the selected items" />
+    <option name="run" path="ActionManager" hit="Run validation on all files in the selected items" />
+    <option name="selected" path="ActionManager" hit="Run validation on all files in the selected items" />
+    <option name="the" path="ActionManager" hit="Run validation on all files in the selected items" />
+    <option name="validation" path="ActionManager" hit="Run validation on all files in the selected items" />
+    <option name="servlet" path="ActionManager" hit="Servlet" />
+    <option name="servlet" path="ActionManager" hit="Servlet..." />
+    <option name="validate" path="ActionManager" hit="Validate" />
+    <option name="filter" path="ActionManager" hit="Web Filter" />
+    <option name="web" path="ActionManager" hit="Web Filter" />
+    <option name="listener" path="ActionManager" hit="Web Listener" />
+    <option name="web" path="ActionManager" hit="Web Listener" />
+    <option name="page" path="ActionManager" hit="Web Page" />
+    <option name="web" path="ActionManager" hit="Web Page" />
+  </configurable>
+</options>

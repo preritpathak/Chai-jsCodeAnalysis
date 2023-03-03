@@ -1,0 +1,50 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="angular" path="ActionManager" hit="Angular Dependency..." />
+    <option name="dependency" path="ActionManager" hit="Angular Dependency..." />
+    <option name="angular" path="ActionManager" hit="Angular Schematic..." />
+    <option name="schematic" path="ActionManager" hit="Angular Schematic..." />
+    <option name="component" path="ActionManager" hit="Extract Component..." />
+    <option name="extract" path="ActionManager" hit="Extract Component..." />
+    <option name="angularjs" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+    <option name="diagram" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+    <option name="router" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+    <option name="show" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+    <option name="state" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+    <option name="ui" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Angular Template" configurable_name="Angular Template">
+    <option name="angular" hit="Angular Template" />
+    <option name="template" hit="Angular Template" />
+    <option name="braces" hit="Braces in Interpolation" />
+    <option name="in" hit="Braces in Interpolation" />
+    <option name="interpolation" hit="Braces in Interpolation" />
+    <option name="braces" hit="Braces in Plural Expression" />
+    <option name="expression" hit="Braces in Plural Expression" />
+    <option name="in" hit="Braces in Plural Expression" />
+    <option name="plural" hit="Braces in Plural Expression" />
+    <option name="comma" hit="Comma in Plural Expression" />
+    <option name="expression" hit="Comma in Plural Expression" />
+    <option name="in" hit="Comma in Plural Expression" />
+    <option name="plural" hit="Comma in Plural Expression" />
+    <option name="binding" hit="Event Binding ‘(event)’" />
+    <option name="event" hit="Event Binding ‘(event)’" />
+    <option name="expression" hit="Plural Expression" />
+    <option name="plural" hit="Plural Expression" />
+    <option name="binding" hit="Property Binding ‘[property]’" />
+    <option name="property" hit="Property Binding ‘[property]’" />
+    <option name="directive" hit="Structural Directive ‘*directive’" />
+    <option name="structural" hit="Structural Directive ‘*directive’" />
+    <option name="expression" hit="Template Expression" />
+    <option name="template" hit="Template Expression" />
+    <option name="reference" hit="Template Reference Variable ‘#var’" />
+    <option name="template" hit="Template Reference Variable ‘#var’" />
+    <option name="var" hit="Template Reference Variable ‘#var’" />
+    <option name="variable" hit="Template Reference Variable ‘#var’" />
+    <option name="binding" hit="Two Way Data Binding ‘[(...)]’" />
+    <option name="data" hit="Two Way Data Binding ‘[(...)]’" />
+    <option name="two" hit="Two Way Data Binding ‘[(...)]’" />
+    <option name="way" hit="Two Way Data Binding ‘[(...)]’" />
+  </configurable>
+</options>

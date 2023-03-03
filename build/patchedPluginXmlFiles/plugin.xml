@@ -1,0 +1,42 @@
+<idea-plugin>
+  <change-notes>&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Initial release&lt;/li&gt;&lt;/ul&gt;</change-notes>
+  <description>&lt;p&gt;This tool can help you create accurate privacy nutrition labels for reactJS apps to satisfy the requirements of Google's and Apple's App Stores.&lt;/p&gt;
+
+&lt;p&gt;Chai is a research project developed by Prerit Pathak at Carnegie Mellon University. All the code analysis is conducted on device, and we don't collect any data from your app. Advisors &amp;amp; Mentors: Dr. Jason Hong &amp;amp; Tianshi Li.&lt;/p&gt;</description>
+  <idea-version since-build="222" until-build="222.*" />
+  <id>me.preritpathak.chai</id>
+  <name>Chai</name>
+  <version>0.9.0</version>
+  <vendor email="me@preritpathak.me" url="https://preritpathak.me">Chai</vendor>
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+  <depends>JavaScript</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <!--        <toolWindow id="Privacy Labels" anchor="bottom" factoryClass="org.intellij.privacyHelper.panelUI.PrivacyCheckerToolWindow"/>-->
+    <!--        <projectService serviceImplementation="org.intellij.privacyHelper.panelUI.PrivacyCheckerView" />-->
+    <!--        <localInspection shortName="PersonalDataSourceAPIInspection" displayName="PersonalDataSourceAPIInspection" groupName="PersonalDataSourceAPIInspection" enabledByDefault="true" implementationClass="org.intellij.privacyHelper.codeInspection.inspections.PersonalDataSourceAPIInspection"/>-->
+    <localInspection shortName="PersonalDataSinkAPIInspection" displayName="PersonalDataSinkAPIInspection" groupName="PersonalDataSinkAPIInspection" enabledByDefault="true" implementationClass="org.intellij.privacyHelper.codeInspection.inspections.PersonalDataSinkAPIInspection" />
+    <!--        <localInspection shortName="AnnotationScanInspection" displayName="AnnotationScanInspection" groupName="AnnotationScanInspection" enabledByDefault="true" implementationClass="org.intellij.privacyHelper.codeInspection.inspections.AnnotationScanInspection"/>-->
+    <!--        <localInspection shortName="ThirdPartyLibImportInspection" displayName="ThirdPartyLibImportInspection" groupName="ThirdPartyLibImportInspection" enabledByDefault="true" implementationClass="org.intellij.privacyHelper.codeInspection.inspections.ThirdPartyLibImportInspection"/>-->
+    <!--        <localInspection shortName="AnnotationTooltipInspection" displayName="AnnotationTooltipInspection" groupName="AnnotationTooltipInspection" enabledByDefault="true" level="Transparent" implementationClass="org.intellij.privacyHelper.codeInspection.inspections.AnnotationTooltipInspection"/>-->
+    <!--        <localInspection shortName="LibraryConfigXmlInspection" displayName="LibraryConfigXmlInspection" groupName="LibraryConfigXmlInspection" enabledByDefault="true" implementationClass="org.intellij.privacyHelper.codeInspection.inspections.LibraryConfigXmlInspection"/>-->
+    <!--        <severitiesProvider implementation="org.intellij.privacyHelper.codeInspection.severitiesProviders.PrivacySensitiveAnnotationSeveritiesProvider"/>-->
+    <!--        <severitiesProvider implementation="org.intellij.privacyHelper.codeInspection.severitiesProviders.InconsistentAnnotationSeveritiesProvider"/>-->
+    <!--        <severitiesProvider implementation="org.intellij.privacyHelper.codeInspection.severitiesProviders.TransparentHighlightSeveritiesProvider"/>-->
+    <!--        <lang.foldingBuilder language="JAVA" implementationClass="org.intellij.privacyHelper.ideUI.AnnotationFolderBuilder" order="first"/>-->
+    <!--        <postStartupActivity implementation="org.intellij.privacyHelper.startup.PrivacyCompiler" />-->
+    <!--        <postStartupActivity implementation="org.intellij.privacyHelper.startup.ImportAnnotationLibTask" />-->
+    <!--        <postStartupActivity implementation="org.intellij.privacyHelper.startup.RegisterEventListenersTask" />-->
+    <!--        <intentionAction>-->
+    <!--            <className>org.intellij.privacyHelper.codeInspection.intentionActions.AddDataAccessAnnotationIntentionAction</className>-->
+    <!--            <category>Java/Declaration</category>-->
+    <!--        </intentionAction>-->
+    <!--        <intentionAction>-->
+    <!--            <className>org.intellij.privacyHelper.codeInspection.intentionActions.AddDataTransmissionAnnotationIntentionAction</className>-->
+    <!--            <category>Java/Declaration</category>-->
+    <!--        </intentionAction>-->
+  </extensions>
+</idea-plugin>
