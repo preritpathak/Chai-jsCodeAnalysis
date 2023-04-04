@@ -3814,6 +3814,14 @@
           }
         ]
       },
+      "*.crl": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.kse",
+            "nullablePluginName": "KS-Explorer"
+          }
+        ]
+      },
       "*.crt": {
         "dataSet": [
           {
@@ -3896,6 +3904,10 @@
           {
             "pluginIdString": "com.andrey4623.rainbowcsv",
             "nullablePluginName": "Rainbow CSV"
+          },
+          {
+            "pluginIdString": "net.seeshafrpsoft1.intellij.plugins.csv",
+            "nullablePluginName": "CSV Ed1tor"
           },
           {
             "pluginIdString": "net.seesharpsoft.intellij.plugins.csv",
@@ -5496,14 +5508,6 @@
           }
         ]
       },
-      "*.fish": {
-        "dataSet": [
-          {
-            "pluginIdString": "de.ithock.idea.fishlang",
-            "nullablePluginName": "Fishlang"
-          }
-        ]
-      },
       "*.fkl": {
         "dataSet": [
           {
@@ -5910,7 +5914,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.google.gct.core",
-            "nullablePluginName": "Cloud Code"
+            "nullablePluginName": "Google Cloud Code"
           }
         ]
       },
@@ -6523,6 +6527,14 @@
           {
             "pluginIdString": "com.guidewire.gosu",
             "nullablePluginName": "OS Gosu"
+          }
+        ]
+      },
+      "*.gts": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.emberjs.experimental",
+            "nullablePluginName": "Ember Experimental.js"
           }
         ]
       },
@@ -7517,6 +7529,22 @@
           }
         ]
       },
+      "*.jetclientjson": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.jetclient",
+            "nullablePluginName": "JetClient"
+          }
+        ]
+      },
+      "*.jetclientjson5": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.jetclient",
+            "nullablePluginName": "JetClient"
+          }
+        ]
+      },
       "*.jfd": {
         "dataSet": [
           {
@@ -7860,12 +7888,12 @@
       "*.jsonnet": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.zzehring.intellijjsonnet",
-            "nullablePluginName": "Jsonnet Language Server"
+            "pluginIdString": "today.movatech.plugins.jsonnet",
+            "nullablePluginName": "Jsonnet Pro"
           },
           {
-            "pluginIdString": "today.movatech.plugins.jsonnet",
-            "nullablePluginName": "Jsonnet Templating Language Support"
+            "pluginIdString": "com.github.zzehring.intellijjsonnet",
+            "nullablePluginName": "Jsonnet Language Server"
           }
         ]
       },
@@ -8810,12 +8838,12 @@
       "*.libsonnet": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.zzehring.intellijjsonnet",
-            "nullablePluginName": "Jsonnet Language Server"
+            "pluginIdString": "today.movatech.plugins.jsonnet",
+            "nullablePluginName": "Jsonnet Pro"
           },
           {
-            "pluginIdString": "today.movatech.plugins.jsonnet",
-            "nullablePluginName": "Jsonnet Templating Language Support"
+            "pluginIdString": "com.github.zzehring.intellijjsonnet",
+            "nullablePluginName": "Jsonnet Language Server"
           }
         ]
       },
@@ -9696,6 +9724,10 @@
           {
             "pluginIdString": "nb-mind-map-idea",
             "nullablePluginName": "IDEA Mind Map"
+          },
+          {
+            "pluginIdString": "com.intellij.mermaid",
+            "nullablePluginName": "Mermaid"
           }
         ]
       },
@@ -10606,6 +10638,14 @@
           }
         ]
       },
+      "*.p10": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.kse",
+            "nullablePluginName": "KS-Explorer"
+          }
+        ]
+      },
       "*.p12": {
         "dataSet": [
           {
@@ -10627,6 +10667,22 @@
           {
             "pluginIdString": "mobi.hsz.idea.gitignore",
             "nullablePluginName": ".ignore"
+          }
+        ]
+      },
+      "*.p7": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.kse",
+            "nullablePluginName": "KS-Explorer"
+          }
+        ]
+      },
+      "*.p7b": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.kse",
+            "nullablePluginName": "KS-Explorer"
           }
         ]
       },
@@ -11143,6 +11199,14 @@
           }
         ]
       },
+      "*.pkcs8": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.kse",
+            "nullablePluginName": "KS-Explorer"
+          }
+        ]
+      },
       "*.pkg": {
         "dataSet": [
           {
@@ -11152,6 +11216,14 @@
           {
             "pluginIdString": "DBN",
             "nullablePluginName": "Database Navigator"
+          }
+        ]
+      },
+      "*.pkipath": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.kse",
+            "nullablePluginName": "KS-Explorer"
           }
         ]
       },
@@ -11356,6 +11428,14 @@
             "pluginIdString": "org.jetbrains.idea.maven",
             "nullablePluginName": "Maven Integration",
             "isBundled": true
+          }
+        ]
+      },
+      "*.pomsky": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.lppedd.idea-pomsky",
+            "nullablePluginName": "Pomsky"
           }
         ]
       },
@@ -11750,6 +11830,10 @@
       "*.psv": {
         "dataSet": [
           {
+            "pluginIdString": "net.seeshafrpsoft1.intellij.plugins.csv",
+            "nullablePluginName": "CSV Ed1tor"
+          },
+          {
             "pluginIdString": "net.seesharpsoft.intellij.plugins.csv",
             "nullablePluginName": "CSV Editor"
           }
@@ -11879,6 +11963,14 @@
           }
         ]
       },
+      "*.pvk": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.kse",
+            "nullablePluginName": "KS-Explorer"
+          }
+        ]
+      },
       "*.pxd": {
         "dataSet": [
           {
@@ -11987,12 +12079,12 @@
       "*.qml": {
         "dataSet": [
           {
-            "pluginIdString": "quickturnstudio.language.qml.QmlEditor",
-            "nullablePluginName": "QML Editor"
-          },
-          {
             "pluginIdString": "com.zxy.ijplugin.wechat-miniprogram",
             "nullablePluginName": "Wechat mini program support"
+          },
+          {
+            "pluginIdString": "quickturnstudio.language.qml.QmlEditor",
+            "nullablePluginName": "QmlEditor"
           }
         ]
       },
@@ -13784,6 +13876,14 @@
           }
         ]
       },
+      "*.spc": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.kse",
+            "nullablePluginName": "KS-Explorer"
+          }
+        ]
+      },
       "*.spd": {
         "dataSet": [
           {
@@ -13817,6 +13917,14 @@
           {
             "pluginIdString": "com.ky-proj.spjplugin",
             "nullablePluginName": "Spj Language Support"
+          }
+        ]
+      },
+      "*.spkac": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.kse",
+            "nullablePluginName": "KS-Explorer"
           }
         ]
       },
@@ -14427,6 +14535,10 @@
             "nullablePluginName": "Illuminated Cloud"
           },
           {
+            "pluginIdString": "net.seeshafrpsoft1.intellij.plugins.csv",
+            "nullablePluginName": "CSV Ed1tor"
+          },
+          {
             "pluginIdString": "net.seesharpsoft.intellij.plugins.csv",
             "nullablePluginName": "CSV Editor"
           }
@@ -14952,6 +15064,14 @@
           }
         ]
       },
+      "*.tir": {
+        "dataSet": [
+          {
+            "pluginIdString": "pascal.taie.intellij",
+            "nullablePluginName": "Tai-e"
+          }
+        ]
+      },
       "*.tl": {
         "dataSet": [
           {
@@ -14997,14 +15117,6 @@
           {
             "pluginIdString": "org.textmapper.idea",
             "nullablePluginName": "Textmapper"
-          }
-        ]
-      },
-      "*.tmar": {
-        "dataSet": [
-          {
-            "pluginIdString": "org.jspresso.plugin.tmar",
-            "nullablePluginName": "TmarPlugin"
           }
         ]
       },
@@ -15422,6 +15534,10 @@
             "nullablePluginName": "Database Tools and SQL for WebStorm"
           },
           {
+            "pluginIdString": "net.seeshafrpsoft1.intellij.plugins.csv",
+            "nullablePluginName": "CSV Ed1tor"
+          },
+          {
             "pluginIdString": "net.seesharpsoft.intellij.plugins.csv",
             "nullablePluginName": "CSV Editor"
           }
@@ -15576,6 +15692,10 @@
           {
             "pluginIdString": "com.rahulrav.baseline-profiles",
             "nullablePluginName": "Android Baseline Profiles"
+          },
+          {
+            "pluginIdString": "io.jetclient",
+            "nullablePluginName": "JetClient"
           }
         ]
       },
@@ -15684,6 +15804,14 @@
           {
             "pluginIdString": "com.illuminatedcloud.intellij",
             "nullablePluginName": "Illuminated Cloud"
+          }
+        ]
+      },
+      "*.uix": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.tarcv.testingteam.surveyoridea",
+            "nullablePluginName": "UI Surveyor"
           }
         ]
       },
@@ -16196,6 +16324,14 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          }
+        ]
+      },
+      "*.wit": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.linuxchina.jetbrains.wit",
+            "nullablePluginName": "WIT"
           }
         ]
       },
@@ -17003,14 +17139,6 @@
           }
         ]
       },
-      "allure.properties": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.selenium",
-            "nullablePluginName": "Selenium UI Testing"
-          }
-        ]
-      },
       "angular-cli.json": {
         "dataSet": [
           {
@@ -17032,6 +17160,22 @@
           {
             "pluginIdString": "org.asciidoctor.intellij.asciidoc",
             "nullablePluginName": "AsciiDoc"
+          }
+        ]
+      },
+      "app-*.properties": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.noear.solon.idea.plugin",
+            "nullablePluginName": "Solon"
+          }
+        ]
+      },
+      "app.properties": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.noear.solon.idea.plugin",
+            "nullablePluginName": "Solon"
           }
         ]
       },
@@ -17072,14 +17216,6 @@
           {
             "pluginIdString": "co.anbora.labs.brew-bundle",
             "nullablePluginName": "Brew Bundle"
-          }
-        ]
-      },
-      "browsers.json": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.selenium",
-            "nullablePluginName": "Selenium UI Testing"
           }
         ]
       },
@@ -17645,14 +17781,6 @@
           }
         ]
       },
-      "hubConfig.json": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.selenium",
-            "nullablePluginName": "Selenium UI Testing"
-          }
-        ]
-      },
       "INSTANCE": {
         "dataSet": [
           {
@@ -17727,7 +17855,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.google.gct.core",
-            "nullablePluginName": "Cloud Code"
+            "nullablePluginName": "Google Cloud Code"
           }
         ]
       },
@@ -17888,14 +18016,6 @@
           }
         ]
       },
-      "nodeConfig.json": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.selenium",
-            "nullablePluginName": "Selenium UI Testing"
-          }
-        ]
-      },
       "nuxt.config.js": {
         "dataSet": [
           {
@@ -18022,6 +18142,14 @@
           {
             "pluginIdString": "org.toml.lang",
             "nullablePluginName": "Toml"
+          }
+        ]
+      },
+      "PRCHECKLIST": {
+        "dataSet": [
+          {
+            "pluginIdString": "checklistbuddy-intellij",
+            "nullablePluginName": "Checklist Buddy"
           }
         ]
       },
@@ -18170,14 +18298,6 @@
           {
             "pluginIdString": "dal-mpe",
             "nullablePluginName": "SQL DAL Maker"
-          }
-        ]
-      },
-      "serenity.properties": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.selenium",
-            "nullablePluginName": "Selenium UI Testing"
           }
         ]
       },
@@ -18430,7 +18550,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1676857099510
+    "lastUpdateTime": 1680554122210
   },
   "dependencies": {
     "featureMap": {
@@ -18439,6 +18559,174 @@
           {
             "pluginIdString": "org.jetbrains.plugins.astro",
             "nullablePluginName": "Astro"
+          }
+        ]
+      },
+      "dotnet:GodotSharp": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.rider.godot",
+            "nullablePluginName": "Godot Support"
+          }
+        ]
+      },
+      "dotnet:Machine.Specifications": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.machine.specifications",
+            "nullablePluginName": "Machine.Specifications for Rider"
+          }
+        ]
+      },
+      "dotnet:Microsoft.ApplicationInsights": {
+        "dataSet": [
+          {
+            "pluginIdString": "fr.socolin.application-insights-debug-log-viewer",
+            "nullablePluginName": "Application Insights Debug Log Viewer"
+          }
+        ]
+      },
+      "dotnet:Microsoft.Azure.Common": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        ]
+      },
+      "dotnet:Microsoft.Azure.Functions.Worker": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        ]
+      },
+      "dotnet:Microsoft.Azure.Storage.Blob": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        ]
+      },
+      "dotnet:Microsoft.Azure.Storage.Common": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        ]
+      },
+      "dotnet:Microsoft.Azure.WebJobs": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        ]
+      },
+      "dotnet:Microsoft.EntityFrameworkCore": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.seclerp.rider.plugins.efcore",
+            "nullablePluginName": "Entity Framework Core UI"
+          }
+        ]
+      },
+      "dotnet:Microsoft.EntityFrameworkCore.Abstractions": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.seclerp.rider.plugins.efcore",
+            "nullablePluginName": "Entity Framework Core UI"
+          }
+        ]
+      },
+      "dotnet:Microsoft.EntityFrameworkCore.Relational": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.seclerp.rider.plugins.efcore",
+            "nullablePluginName": "Entity Framework Core UI"
+          }
+        ]
+      },
+      "dotnet:Microsoft.EntityFrameworkCore.Tools": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.seclerp.rider.plugins.efcore",
+            "nullablePluginName": "Entity Framework Core UI"
+          }
+        ]
+      },
+      "dotnet:Microsoft.Extensions.Logging": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.StructuredLogging",
+            "nullablePluginName": "Structured Logging"
+          }
+        ]
+      },
+      "dotnet:Microsoft.Identity.Client": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        ]
+      },
+      "dotnet:Microsoft.Identity.Web": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        ]
+      },
+      "dotnet:Microsoft.NET.Sdk.Functions": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        ]
+      },
+      "dotnet:Moq": {
+        "dataSet": [
+          {
+            "pluginIdString": "Abc.MoqComplete.Rider",
+            "nullablePluginName": "MoqComplete"
+          }
+        ]
+      },
+      "dotnet:NLog": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.StructuredLogging",
+            "nullablePluginName": "Structured Logging"
+          }
+        ]
+      },
+      "dotnet:NSubstitute": {
+        "dataSet": [
+          {
+            "pluginIdString": "nsubstitutecomplete-rider",
+            "nullablePluginName": "NSubstituteComplete"
+          }
+        ]
+      },
+      "dotnet:Serilog": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.resharper.StructuredLogging",
+            "nullablePluginName": "Structured Logging"
+          }
+        ]
+      },
+      "dotnet:TechTalk.SpecFlow": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.settler.rider.specflow",
+            "nullablePluginName": "SpecFlow for Rider"
           }
         ]
       },
@@ -18747,10 +19035,6 @@
           {
             "pluginIdString": "com.intellij.aqua",
             "nullablePluginName": "Aqua"
-          },
-          {
-            "pluginIdString": "com.intellij.selenium",
-            "nullablePluginName": "Selenium UI Testing"
           }
         ]
       },
@@ -18966,7 +19250,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.dubbo",
-            "nullablePluginName": "Apache Dubbo"
+            "nullablePluginName": "Apache Dubbo in Spring Framework"
           }
         ]
       },
@@ -19074,14 +19358,6 @@
           }
         ]
       },
-      "java:org.graalvm.nativeimage:svm": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.graalvm",
-            "nullablePluginName": "GraalVM Native Debugger"
-          }
-        ]
-      },
       "java:org.grails:grails-core": {
         "dataSet": [
           {
@@ -19183,10 +19459,6 @@
           {
             "pluginIdString": "com.intellij.aqua",
             "nullablePluginName": "Aqua"
-          },
-          {
-            "pluginIdString": "com.intellij.selenium",
-            "nullablePluginName": "Selenium UI Testing"
           }
         ]
       },
@@ -19583,7 +19855,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1676857099548
+    "lastUpdateTime": 1680554122246
   }
 }]]></component>
   <component name="PluginFeatureService">{

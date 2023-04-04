@@ -1,0 +1,12 @@
+<conversion>
+  <applied-converters>
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="DockerRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea/vcs.xml" t="1678750741" />
+    <f p="./.idea/workspace.xml" t="1680191142" />
+    <f p="./.idea/src.iml" t="1678750741" />
+    <f p="./.idea/modules.xml" t="1678750741" />
+  </project-files>
+</conversion>

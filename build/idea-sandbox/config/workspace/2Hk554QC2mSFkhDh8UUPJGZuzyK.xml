@@ -8,13 +8,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locationPermission.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="110">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+              <folding>
+                <element signature="e#15#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -24,7 +48,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="JavaScript">
-      <summary usageCount="38" lastUsed="1676857093969" />
+      <summary usageCount="102" lastUsed="1680573060245" />
     </fileType>
     <fileType name="textmate">
       <summary usageCount="1" lastUsed="1675538005890" />
@@ -34,6 +58,8 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/jsdoc.conf" />
       <option value="$PROJECT_DIR$/locationPermission.js" />
+      <option value="$PROJECT_DIR$/App.js" />
+      <option value="$PROJECT_DIR$/Main.js" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -45,7 +71,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JavaScript">
-      <summary usageCount="38" lastUsage="1676857093970" />
+      <summary usageCount="102" lastUsage="1680573060245" />
     </language>
     <language id="textmate">
       <summary usageCount="1" lastUsage="1675538005890" />
@@ -61,6 +87,15 @@
               <item name="locationTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="locationTest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="locationTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="locationTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Node.js Core" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -69,7 +104,16 @@
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7365000" />
+    <option name="totallyTimeSpent" value="14677000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
@@ -81,7 +125,7 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33019912" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.33019912" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Problems View" order="6" visible="true" weight="0.23396018" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -89,8 +133,9 @@
       <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
     </layout>
     <recentWindows>
-      <value>Problems View</value>
       <value>Project</value>
+      <value>Problems View</value>
+      <value>TODO</value>
       <value>Run</value>
     </recentWindows>
   </component>
@@ -123,10 +168,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/locationPermission.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="110">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+          <folding>
+            <element signature="e#15#60#0" expanded="true" />
           </folding>
         </state>
       </provider>

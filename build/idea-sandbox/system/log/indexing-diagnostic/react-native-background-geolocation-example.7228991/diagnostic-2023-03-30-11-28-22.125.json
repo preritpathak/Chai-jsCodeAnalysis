@@ -1,0 +1,722 @@
+{
+  "appInfo" : {
+    "build" : "222.4345.14",
+    "buildDate" : "2022-10-05T05:01:42.418Z[UTC]",
+    "productCode" : "WS",
+    "generated" : "2023-03-30T15:28:22.126776Z",
+    "os" : "macOS 12.3.1",
+    "runtime" : "JetBrains s.r.o. 17.0.4.1 17.0.4.1+7-b469.62"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "react-native-background-geolocation-example",
+    "times" : {
+      "indexingReason" : "On project open",
+      "scanningType" : "FULL_ON_PROJECT_OPEN",
+      "totalUpdatingTime" : 1110153667,
+      "indexingTime" : 549196000,
+      "contentLoadingVisibleTime" : 5524377,
+      "creatingIteratorsTime" : 1505000,
+      "scanFilesTime" : 446026000,
+      "pushPropertiesTime" : 87000,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 90253176,
+      "updatingStart" : "2023-03-30T15:28:21.014148Z",
+      "updatingEnd" : "2023-03-30T15:28:22.124308Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 15,
+      "numberOfScannedFiles" : 453,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 65,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 65
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JavaScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 1098122164,
+        "total" : 1864951911
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 4802914,
+        "total" : 18972496
+      },
+      "totalNumberOfFiles" : 20,
+      "totalFilesSize" : 46417,
+      "indexingSpeed" : {
+        "totalBytes" : 46417,
+        "totalTime" : 1098122164
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+        "numberOfFiles" : 20,
+        "totalFilesSize" : 46417,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1098122164,
+          "total" : 1098122164
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 200886498,
+        "total" : 1864951911
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2588416,
+        "total" : 18972496
+      },
+      "totalNumberOfFiles" : 13,
+      "totalFilesSize" : 99498,
+      "indexingSpeed" : {
+        "totalBytes" : 99498,
+        "totalTime" : 200886498
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+        "numberOfFiles" : 13,
+        "totalFilesSize" : 99498,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 200886498,
+          "total" : 200886498
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 163390459,
+        "total" : 1864951911
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 424875,
+        "total" : 18972496
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 3469,
+      "indexingSpeed" : {
+        "totalBytes" : 3469,
+        "totalTime" : 163390459
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 3469,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 163390459,
+          "total" : 163390459
+        }
+      } ]
+    }, {
+      "fileType" : "yarn.lock",
+      "partOfTotalProcessingTime" : {
+        "part" : 163106000,
+        "total" : 1864951911
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1420500,
+        "total" : 18972496
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 288774,
+      "indexingSpeed" : {
+        "totalBytes" : 288774,
+        "totalTime" : 163106000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 288774,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 163106000,
+          "total" : 163106000
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 103694833,
+        "total" : 1864951911
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1840082,
+        "total" : 18972496
+      },
+      "totalNumberOfFiles" : 16,
+      "totalFilesSize" : 25917,
+      "indexingSpeed" : {
+        "totalBytes" : 25917,
+        "totalTime" : 103694833
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+        "numberOfFiles" : 16,
+        "totalFilesSize" : 25917,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 103694833,
+          "total" : 103694833
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 80703957,
+        "total" : 1864951911
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1343209,
+        "total" : 18972496
+      },
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : 1742,
+      "indexingSpeed" : {
+        "totalBytes" : 1742,
+        "totalTime" : 80703957
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 1742,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 80703957,
+          "total" : 80703957
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 37616250,
+        "total" : 1864951911
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1559542,
+        "total" : 18972496
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 2199,
+      "indexingSpeed" : {
+        "totalBytes" : 2199,
+        "totalTime" : 37616250
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 2199,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 37616250,
+          "total" : 37616250
+        }
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalProcessingTime" : {
+        "part" : 7069000,
+        "total" : 1864951911
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 84125,
+        "total" : 18972496
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 5080,
+      "indexingSpeed" : {
+        "totalBytes" : 5080,
+        "totalTime" : 7069000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 5080,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7069000,
+          "total" : 7069000
+        }
+      } ]
+    }, {
+      "fileType" : "SVG",
+      "partOfTotalProcessingTime" : {
+        "part" : 6570083,
+        "total" : 1864951911
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2482666,
+        "total" : 18972496
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 1811,
+      "indexingSpeed" : {
+        "totalBytes" : 1811,
+        "totalTime" : 6570083
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 1811,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 6570083,
+          "total" : 6570083
+        }
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalProcessingTime" : {
+        "part" : 3792667,
+        "total" : 1864951911
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2426167,
+        "total" : 18972496
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 817,
+      "indexingSpeed" : {
+        "totalBytes" : 817,
+        "totalTime" : 3792667
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 817,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3792667,
+          "total" : 3792667
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 721120668,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 25,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 52085,
+      "indexingSpeed" : {
+        "totalBytes" : 52085,
+        "totalTime" : 721120668
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 196332957,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 24,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 48616,
+      "indexingSpeed" : {
+        "totalBytes" : 48616,
+        "totalTime" : 196332957
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 116404035,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 65,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 475724,
+      "indexingSpeed" : {
+        "totalBytes" : 475724,
+        "totalTime" : 116404035
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 103297171,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 62,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 473913,
+      "indexingSpeed" : {
+        "totalBytes" : 473913,
+        "totalTime" : 103297171
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "js.string.literal.words.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 64690207,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 20,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 46417,
+      "indexingSpeed" : {
+        "totalBytes" : 46417,
+        "totalTime" : 64690207
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "js.test.names",
+      "partOfTotalIndexingTime" : {
+        "part" : 61071751,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 20,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 46417,
+      "indexingSpeed" : {
+        "totalBytes" : 46417,
+        "totalTime" : 61071751
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "HashFragmentIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 49762169,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 20,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 46417,
+      "indexingSpeed" : {
+        "totalBytes" : 46417,
+        "totalTime" : 49762169
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 10175208,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 4,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2199,
+      "indexingSpeed" : {
+        "totalBytes" : 2199,
+        "totalTime" : 10175208
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 2410417,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1742,
+      "indexingSpeed" : {
+        "totalBytes" : 1742,
+        "totalTime" : 2410417
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 699623,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1742,
+      "indexingSpeed" : {
+        "totalBytes" : 1742,
+        "totalTime" : 699623
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "js.custom.single.entry.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 381874,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 20,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 46417,
+      "indexingSpeed" : {
+        "totalBytes" : 46417,
+        "totalTime" : 381874
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 197417,
+        "total" : 1326543497
+      },
+      "totalNumberOfFiles" : 4,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2199,
+      "indexingSpeed" : {
+        "totalBytes" : 2199,
+        "totalTime" : 197417
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+      "numberOfScannedFiles" : 111,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 65,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 383357003,
+      "scanningTime" : 430215121,
+      "timeProcessingUpToDateFiles" : 771436,
+      "timeUpdatingContentLessIndexes" : 16484043,
+      "timeIndexingWithoutContent" : 4020280,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@62476d83' (non-project)",
+      "numberOfScannedFiles" : 218,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 263793070,
+      "scanningTime" : 266936717,
+      "timeProcessingUpToDateFiles" : 7632954,
+      "timeUpdatingContentLessIndexes" : 173719,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'JS required libraries' (project)",
+      "numberOfScannedFiles" : 37,
+      "numberOfSkippedFiles" : 41,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 40681960,
+      "scanningTime" : 40810413,
+      "timeProcessingUpToDateFiles" : 12306997,
+      "timeUpdatingContentLessIndexes" : 73502,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 24,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 30851959,
+      "scanningTime" : 33580663,
+      "timeProcessingUpToDateFiles" : 4023132,
+      "timeUpdatingContentLessIndexes" : 45083,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'TypeScript bundled libraries' (project)",
+      "numberOfScannedFiles" : 40,
+      "numberOfSkippedFiles" : 31,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 27378332,
+      "scanningTime" : 27495295,
+      "timeProcessingUpToDateFiles" : 10712842,
+      "timeUpdatingContentLessIndexes" : 80583,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'org.jetbrains.plugins.scss.index.SassScssIndexedRootProvider@216afb96' (non-project)",
+      "numberOfScannedFiles" : 8,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 23943792,
+      "scanningTime" : 23975126,
+      "timeProcessingUpToDateFiles" : 7006249,
+      "timeUpdatingContentLessIndexes" : 21248,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'JS required libraries' (non-project)",
+      "numberOfScannedFiles" : 12,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 15988585,
+      "scanningTime" : 16021835,
+      "timeProcessingUpToDateFiles" : 8690289,
+      "timeUpdatingContentLessIndexes" : 23750,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.HttpRequestCollectionProvider@34e58abb' (non-project)",
+      "numberOfScannedFiles" : 2,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 13223624,
+      "scanningTime" : 15197500,
+      "timeProcessingUpToDateFiles" : 5848501,
+      "timeUpdatingContentLessIndexes" : 3542,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.run.HttpClientDynamicVariablesStubController@432027e5' (non-project)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 12995625,
+      "scanningTime" : 12999750,
+      "timeProcessingUpToDateFiles" : 5819334,
+      "timeUpdatingContentLessIndexes" : 1875,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@62476d83' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.HttpRequestCollectionProvider@34e58abb' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.run.HttpClientDynamicVariablesStubController@432027e5' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'org.jetbrains.plugins.scss.index.SassScssIndexedRootProvider@216afb96' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'TypeScript bundled libraries' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'react-native-background-geolocation-example' (react-native-background-geolocation-example)",
+      "totalNumberOfIndexedFiles" : 65,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 543033375,
+      "contentLoadingVisibleTime" : 5524377,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 90253176
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.29117821848222447
+  }
+}

@@ -15,16 +15,29 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/WebstormProjects/locationTest">
+        <entry key="$USER_HOME$/thesis/sample-aps/react-native-background-geolocation-example">
           <value>
-            <RecentProjectMetaInfo frameTitle="locationTest – locationPermission.js" opened="true" projectWorkspaceId="2Hk554QC2mSFkhDh8UUPJGZuzyK">
-              <option name="activationTimestamp" value="1676857100673" />
+            <RecentProjectMetaInfo frameTitle="react-native-background-geolocation-example – Info.plist" projectWorkspaceId="2LsINyGcexFhK74AmdC53EUjsK2">
+              <option name="activationTimestamp" value="1680468617201" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-222.4345.14" />
-              <option name="buildTimestamp" value="1664946069761" />
+              <option name="buildTimestamp" value="1664946074451" />
               <frame x="112" y="67" width="1400" height="904" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1676857093395" />
+              <option name="projectOpenTimestamp" value="1680468617441" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/locationTest">
+          <value>
+            <RecentProjectMetaInfo frameTitle="locationTest – Main.js" projectWorkspaceId="2Hk554QC2mSFkhDh8UUPJGZuzyK">
+              <option name="activationTimestamp" value="1680573074679" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-222.4345.14" />
+              <option name="buildTimestamp" value="1664946093533" />
+              <frame x="112" y="67" width="1400" height="904" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1680563077943" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

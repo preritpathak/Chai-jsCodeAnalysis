@@ -1,0 +1,62 @@
+{
+  "pageCacheStats" : {
+    "cachedChannelsStatistics" : {
+      "hit" : 36,
+      "miss" : 0,
+      "load" : 86,
+      "capacity" : 400
+    },
+    "uncachedFileAccess" : 262,
+    "maxRegisteredFiles" : 715,
+    "maxCacheSizeInBytes" : 362004480,
+    "pageHit" : 194,
+    "pageFastCacheHit" : 44686,
+    "pageMiss" : 0,
+    "pageLoad" : 369,
+    "disposedBuffers" : 332,
+    "capacityInBytes" : 515899392
+  },
+  "vfsStorageStats" : {
+    "statsPerEnumerator" : {
+      "contentHashes.dat" : {
+        "collisions" : 0,
+        "values" : 75,
+        "dataFileSizeInBytes" : 1500,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 1,
+          "elements" : 75,
+          "height" : 1,
+          "moves" : 0,
+          "leafPages" : 1,
+          "maxSearchStepsInRequest" : 0,
+          "searchRequests" : 168,
+          "searchSteps" : 0,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 32768
+        }
+      },
+      "names.dat" : {
+        "collisions" : 0,
+        "values" : 978,
+        "dataFileSizeInBytes" : 15930,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 1,
+          "elements" : 977,
+          "height" : 1,
+          "moves" : 0,
+          "leafPages" : 1,
+          "maxSearchStepsInRequest" : 4,
+          "searchRequests" : 16934,
+          "searchSteps" : 3221,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 32768
+        }
+      }
+    }
+  },
+  "indexStorageStats" : {
+    "indexStoragesStats" : { }
+  }
+}
